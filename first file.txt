@@ -1,0 +1,31 @@
+Last login: Thu Oct 29 19:32:29 on ttys000
+veronika@MacBook-Pro-Veronika ~ % git clone https://github.com/nianica/Test-Itmo.git
+Cloning into 'Test-Itmo'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+veronika@MacBook-Pro-Veronika ~ % 
+veronika@MacBook-Pro-Veronika ~ % cd test itmo
+cd: string not in pwd: test
+veronika@MacBook-Pro-Veronika ~ % cd test-itmo
+veronika@MacBook-Pro-Veronika test-itmo % cd Test-Itmo
+cd: no such file or directory: Test-Itmo
+veronika@MacBook-Pro-Veronika test-itmo % cd Test-itmo
+cd: no such file or directory: Test-itmo
+veronika@MacBook-Pro-Veronika test-itmo % cd documents
+cd: no such file or directory: documents
+veronika@MacBook-Pro-Veronika test-itmo % ls
+README.md
+veronika@MacBook-Pro-Veronika test-itmo % 
+October
+
+
+
+
+
+
+
+
+
+
