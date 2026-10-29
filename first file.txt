@@ -19,7 +19,7 @@ veronika@MacBook-Pro-Veronika test-itmo % ls
 README.md
 veronika@MacBook-Pro-Veronika test-itmo % 
 October
-
+228
 
 
 
